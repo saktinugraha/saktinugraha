@@ -10,6 +10,4 @@
 - ⚡ Fun fact: I dreamed of owning a unicorn farm 😅
 - 🎮 One day I will make a game for our next child generation
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=saktinugraha&count_private=true&show_icons=true&theme=dark)](https://github.com/saktinugraha/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saktinugraha&layout=compact&theme=dark)](https://github.com/saktinugraha/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=saktinugraha&count_private=true&show_icons=true&theme=dark)](https://github.com/saktinugraha/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saktinugraha&layout=compact&theme=dark)](https://github.com/saktinugraha/github-readme-stats)

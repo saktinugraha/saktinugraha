@@ -1,7 +1,7 @@
 ### Hi Everyone, I'm [Sakti](https://saktinugraha.github.io)! 👋
 
 - 🔭 I’m currently working at [Astrocode Indonesia](http://astrocode.id) as a Lead Full-stack Developer
-- 🌱 I’m currently learning [NestJS](https://docs.nestjs.com), [Deno](https://deno.land/), [Rust Programming](https://www.rust-lang.org/) and [Golang](https://golang.org/)
+- 🌱 I’m currently learning [NestJS](https://docs.nestjs.com), [Deno](https://deno.land/), [Rust](https://www.rust-lang.org/) and [Golang](https://golang.org/)
 - 👯 I’m looking to collaborate on any open source projects related to JavaScript, TypeScript, Rust, and Golang
 - 🤔 I’m looking for code review partner that related to my learning path
 - 💬 Ask me about anything related to JavaScript, TypeScript, Rust, and Golang.

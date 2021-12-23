@@ -99,18 +99,6 @@
 			</a>
 			<br>PostgreSQL
 		</td>
-		<td align="center" width="96">
-			<a href="#saktinugraha" >
-				<img src="./img/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
-			</a>
-			<br>MongoDB
-		</td>
-    <td align="center"  width="96">
-			<a href="#saktinugraha">
-				<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/redis.svg" width="48" height="48" alt="Redis" />
-			</a>
-			<br>Redis
-		</td>
 	</tr>
 	<!-- 2nd Row -->
   <tr>
@@ -150,46 +138,22 @@
 			</a>
 			<br>Laravel
 		</td>
-		<td align="center" width="96"> 
+    <td align="center" width="96">
 			<a href="#saktinugraha" >
-				<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker-icon.svg" width="48" height="48" alt="Docker" />
+				<img src="./img/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
 			</a>
-			<br>Docker
-		</td>
-		<td align="center" width="96">
-			<a href="#saktinugraha" >
-				<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kubernetes.svg" width="48" height="48" alt="Kubernetes" />
-			</a>
-			<br>Kubernetes
-		</td>
-		<td align="center"  width="96">
-			<a href="#saktinugraha">
-				<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nginx.svg" width="48" height="48" alt="Nginx" />
-			</a>
-			<br>Nginx
+			<br>MongoDB
 		</td>
     <td align="center"  width="96">
 			<a href="#saktinugraha">
-				<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/apache.svg" width="48" height="48" alt="Apache" />
+				<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/redis.svg" width="48" height="48" alt="Redis" />
 			</a>
-			<br>Apache
+			<br>Redis
 		</td>
 	</tr>
 
   <!-- 3rd Row -->
   <tr>
-    <td align="center" width="96">
-			<a href="#saktinugraha">
-				<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" width="48" height="48" alt="Python" />
-			</a>
-			<br>Python
-		</td>
-    <td align="center" width="96">
-			<a href="#saktinugraha">
-				<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/ethereum.svg" width="48" height="48" alt="Ethereum" />
-			</a>
-			<br>Ethereum
-		</td>
     <td align="center" width="96">
 			<a href="#saktinugraha" >
 				<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/digital-ocean.svg" width="48" height="48" alt="Digital Ocean" />
@@ -214,29 +178,29 @@
 			</a>
 			<br>Cloudflare
 		</td>
-    <td align="center" width="96">
-			<a href="#saktinugraha" >
-				<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/elasticsearch.svg" width="48" height="48" alt="Elastic Search" />
+    <td align="center"  width="96">
+			<a href="#saktinugraha">
+				<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nginx.svg" width="48" height="48" alt="Nginx" />
 			</a>
-			<br>Elasticsearch
+			<br>Nginx
+		</td>
+    <td align="center"  width="96">
+			<a href="#saktinugraha">
+				<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/apache.svg" width="48" height="48" alt="Apache" />
+			</a>
+			<br>Apache
+		</td>
+    <td align="center" width="96"> 
+			<a href="#saktinugraha" >
+				<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker-icon.svg" width="48" height="48" alt="Docker" />
+			</a>
+			<br>Docker
 		</td>
 		<td align="center" width="96">
 			<a href="#saktinugraha" >
-				<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/logstash.svg" width="48" height="48" alt="Logstash" />
+				<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kubernetes.svg" width="48" height="48" alt="Kubernetes" />
 			</a>
-			<br>Logstash
-		</td>
-		<td align="center" width="96">
-			<a href="#saktinugraha" >
-				<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kibana.svg" width="48" height="48" alt="Kibana" />
-			</a>
-			<br>Kibana
-		</td>
-    <td align="center" width="96">
-			<a href="#saktinugraha" >
-				<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/beats.svg" width="48" height="48" alt="Beats" />
-			</a>
-			<br>Beats
+			<br>Kubernetes
 		</td>
 	</tr>
 </table>

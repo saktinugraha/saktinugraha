@@ -2,29 +2,32 @@
 
 ### Hi Everyone, I'm [Sakti](https://saktinugraha.github.io)! 👋
 
-- 🔭 I’m currently working at [Astrocode Indonesia](http://astrocode.id) as a Lead Full-stack Developer
-- 🌱 I’m currently learning [Golang](https://golang.org/)-[Fiber](https://gofiber.io/) & [Rust](https://www.rust-lang.org/)-[Actix](https://actix.rs/)
-- 👯 I’m looking to collaborate on any open source projects related to JavaScript, TypeScript, Golang, and Rust
-- 🤔 I’m looking for code review partner that related to my learning path
-- 💬 Ask me about anything related to JavaScript, TypeScript, Golang, and Rust
-- 📫 Reach out to me directly through my [Email](mailto:saktinugraha24@gmail.com).
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I dreamed of owning a unicorn farm 😅
-- 🎮 One day I will make a game for our next child generation
+- 🧑‍💼 I’m working projects at [Astrocode Indonesia](https://astrocode.co.id) as a Software Engineer - Fullstack/Backend.
+- 🧑‍💻 My Current stack:
+  - Main Programming Language: [Golang](https://golang.org/): [Fiber](https://gofiber.io/), [Go-chi](https://go-chi.io/), [GORM](https://gorm.io/).
+  - 2nd Programming Language: [Javascript/Typescript](https://www.typescriptlang.org): [Express.js](https://expressjs.com), [Sequelize](https://sequelize.org/), [NestJS](https://nestjs.com), [TypeORM](https://typeorm.io/), [Mongoose](https://mongoosejs.com/).
+  - Databases: [MySQL](https://www.mysql.com/)/[MariaDB](https://mariadb.org/), [PostgreSQL](https://www.postgresql.org/), [MongoDB](https://www.mongodb.com/), [Redis](https://redis.io/).
+- 👯 I’m looking to collaborate on any open-source projects related to JavaScript, TypeScript, and Golang.
+- 🤔 I’m looking for a code review partner related to my learning path.
+- 💬 Ask me about anything related to JavaScript, TypeScript, and Golang.
+- 📫 Reach out to me directly through my [Email](mailto:saktinugraha24@gmail.com) or at [LinkedIn](https://www.linkedin.com/in/muhammad-wahyu-nugroho-sakti/).
+- 😄 Pronouns: he/him.
+- ⚡ Fun fact: Someday I will make a good solid micro-SaaS that solves people's problems and I did programming because it's fun.
+- 🎮 I love to play action role-playing games.
 
 <br>
 <!-- Badged -->
 <p align="center">
 	<!-- Visitor -->
-	<a href="https://github.com/saktinugraha/shields-io-visitor-counter">
-		<img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=saktinugraha.saktinugraha&style=for-the-badge">
+	<a href="https://github.com/saktinugraha">
+		<img src="https://img.shields.io/github/stars/saktinugraha?color=FFD700&labelColor=D1B000&style=for-the-badge">
 	<a>
 	<!-- Twitter Stats -->
-	<a href="https://twitter.com/saktinugraha24">
+	<a href="https://x.com/saktinugraha24">
 		<img 
 			alt="followers" 
 			title="Follow me on Twitter" 
-			src="https://img.shields.io/twitter/follow/saktinugraha24?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/>
+			src="https://img.shields.io/twitter/follow/saktinugraha24?color=55960c&labelColor=488207&label=Follow&logo=X&logoColor=white&style=for-the-badge"/>
 	</a>
 	<!-- Github Stats -->
 	<a href="https://github.com/saktinugraha">
@@ -70,12 +73,6 @@
 			<br>Go
 		</td>
     <td align="center" width="96">
-			<a href="#saktinugraha">
-				<img src="./img/rust.svg" width="48" height="48" alt="Rust" />
-			</a>
-			<br>Rust
-		</td>
-    <td align="center" width="96">
 			<a href="#saktinugraha" >
 				<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" width="48" height="48" alt="Java" />
 			</a>
@@ -98,6 +95,12 @@
 				<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/postgresql.svg" width="48" height="48" alt="PostgreSQL" />
 			</a>
 			<br>PostgreSQL
+		</td>
+		<td align="center" width="96">
+			<a href="#saktinugraha">
+				<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kafka.svg" width="48" height="48" alt="Kafka" />
+			</a>
+			<br>Kafka
 		</td>
 	</tr>
 	<!-- 2nd Row -->
@@ -122,12 +125,6 @@
 		</td>
 		<td align="center" width="96">
 			<a href="#saktinugraha" >
-				<img src="./img/actix.svg" width="48" height="48" alt="Actix" />
-			</a>
-			<br>Actix
-		</td>
-		<td align="center" width="96">
-			<a href="#saktinugraha" >
 				<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg" width="48" height="48" alt="Android" />
 			</a>
 			<br>Android
@@ -149,6 +146,12 @@
 				<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/redis.svg" width="48" height="48" alt="Redis" />
 			</a>
 			<br>Redis
+		</td>
+	  	<td align="center" width="96">
+			<a href="#saktinugraha" >
+				<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/rabbitmq.svg" width="48" height="48" alt="RabbitMQ" />
+			</a>
+			<br>RabbitMQ
 		</td>
 	</tr>
 
@@ -227,7 +230,6 @@
   </div>
   <br><br><br><br><br><br><br><br><br>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=saktinugraha&theme=github&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <hr>

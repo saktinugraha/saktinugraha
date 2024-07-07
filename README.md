@@ -12,36 +12,31 @@
 - 💬 Ask me about anything related to JavaScript, TypeScript, and Golang.
 - 📫 Reach out to me directly through my [Email](mailto:saktinugraha24@gmail.com) or at [LinkedIn](https://www.linkedin.com/in/muhammad-wahyu-nugroho-sakti/).
 - 😄 Pronouns: he/him.
-- ⚡ Fun fact: Someday I will make a good solid micro-SaaS that solves people's problems and I did programming because it's fun.
+- ⚡ Fun fact: I did programming because it's fun!
 - 🎮 I love to play action role-playing games.
 
 <br>
 <!-- Badged -->
 <p align="center">
-	<!-- Visitor -->
-	<a href="https://github.com/saktinugraha">
-		<img src="https://img.shields.io/github/stars/saktinugraha?color=FFD700&labelColor=D1B000&style=for-the-badge">
-	<a>
-	<!-- Twitter Stats -->
+	<!-- Twitter -->
 	<a href="https://x.com/saktinugraha24">
-		<img 
-			alt="followers" 
-			title="Follow me on Twitter" 
-			src="https://img.shields.io/twitter/follow/saktinugraha24?color=55960c&labelColor=488207&label=Follow&logo=X&logoColor=white&style=for-the-badge"/>
+		<img src="https://img.shields.io/twitter/follow/saktinugraha24?style=for-the-badge&logo=X&logoColor=white&label=Follow&labelColor=black&color=black"/>
 	</a>
-	<!-- Github Stats -->
+	<!-- Instagram -->
+	<a href="https://instagram.com/saktinugrahaa">
+		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+	</a>
+	<!-- Github Stars -->
 	<a href="https://github.com/saktinugraha">
-		<img 
-			alt="followers" 
-			title="Follow me on Github" 
-			src="https://img.shields.io/github/followers/saktinugraha?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/>
+		<img src="https://img.shields.io/github/stars/saktinugraha?style=for-the-badge&logo=Github&logoColor=white&logoSize=white&label=Stars&color=gold"/>
+	</a>
+	<!-- Github Followers -->
+	<a href="https://github.com/saktinugraha">
+		<img src="https://img.shields.io/github/followers/saktinugraha?style=for-the-badge&logo=GitHub&logoColor=white&label=Followers&labelColor=636363&color=black"/>
 	</a>
 	<!-- Stackoverflow Stats -->
 	<a href="https://stackoverflow.com/users/4115752">
-		<img 
-			alt="followers" 
-			title="Follow me on Github" 
-			src="https://img.shields.io/stackexchange/stackoverflow/r/4115752?color=%23E05D44&label=REPUTATION&logo=stackoverflow&style=for-the-badge&labelColor=CE4630&logoColor=white"/>
+		<img src="https://img.shields.io/stackexchange/stackoverflow/r/4115752?color=%23E05D44&label=REPUTATION&logo=stackoverflow&style=for-the-badge&labelColor=CE4630&logoColor=white"/>
 	</a>
 </p>
 
@@ -161,7 +156,7 @@
 			<a href="#saktinugraha" >
 				<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/digital-ocean.svg" width="48" height="48" alt="Digital Ocean" />
 			</a>
-			<br>DO
+			<br>DigitalOcean
 		</td>
 		<td align="center" width="96">
 			<a href="#saktinugraha" >
@@ -231,5 +226,4 @@
   <br><br><br><br><br><br><br><br><br>
   <br>
 </p>
-
 <hr>

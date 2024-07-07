@@ -22,6 +22,10 @@
 	<a href="https://x.com/saktinugraha24">
 		<img src="https://img.shields.io/twitter/follow/saktinugraha24?style=for-the-badge&logo=X&logoColor=white&label=Follow&labelColor=black&color=black"/>
 	</a>
+	<!-- Linkedin -->
+	<a href="https://x.com/saktinugraha24">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+	</a>
 	<!-- Instagram -->
 	<a href="https://instagram.com/saktinugrahaa">
 		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">

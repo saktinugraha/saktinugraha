@@ -75,7 +75,7 @@
 			<a href="#saktinugraha" >
 				<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-sharp.svg" width="48" height="48" alt="C-Sharp" />
 			</a>
-			<br>Java
+			<br>C-Sharp
 		</td>
     <td align="center" width="96">
 			<a href="#saktinugraha" >
@@ -126,7 +126,7 @@
 			<a href="#saktinugraha" >
 				<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/dotnet.svg" width="48" height="48" alt=".Net" />
 			</a>
-			<br>Android
+			<br>.Net
 		</td>
     <td align="center" width="96">
 			<a href="#saktinugraha">

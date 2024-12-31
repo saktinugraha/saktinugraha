@@ -73,7 +73,7 @@
 		</td>
     <td align="center" width="96">
 			<a href="#saktinugraha" >
-				<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-sharp.svg" width="48" height="48" alt="Java" />
+				<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-sharp.svg" width="48" height="48" alt="C-Sharp" />
 			</a>
 			<br>Java
 		</td>
@@ -124,7 +124,7 @@
 		</td>
 		<td align="center" width="96">
 			<a href="#saktinugraha" >
-				<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/dotnet.svg" width="48" height="48" alt="Android" />
+				<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/dotnet.svg" width="48" height="48" alt=".Net" />
 			</a>
 			<br>Android
 		</td>

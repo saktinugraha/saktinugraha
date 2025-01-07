@@ -6,7 +6,7 @@
 - 🧑‍💻 My Current stack:
   - Main Programming Language: [Golang](https://golang.org/): [Fiber](https://gofiber.io/), [Go-chi](https://go-chi.io/), [GORM](https://gorm.io/).
   - 2nd Programming Language: [Javascript/Typescript](https://www.typescriptlang.org): [Express.js](https://expressjs.com), [Sequelize](https://sequelize.org/), [NestJS](https://nestjs.com), [TypeORM](https://typeorm.io/), [Mongoose](https://mongoosejs.com/).
-  - 3rd Programming Language: [C#](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/): [.NET](https://learn.microsoft.com/en-us/dotnet/), [ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/), [Unity](https://unity.com/).
+  - 3rd Programming Language: [C#](https://dotnet.microsoft.com/en-us/languages/csharp): [.NET](https://dotnet.microsoft.com/en-us/), [ASP.NET Core](https://dotnet.microsoft.com/en-us/apps/aspnet), [Unity](https://unity.com/).
   - Databases: [MySQL](https://www.mysql.com/)/[MariaDB](https://mariadb.org/), [PostgreSQL](https://www.postgresql.org/), [MongoDB](https://www.mongodb.com/), [Redis](https://redis.io/).
 - 👯 I’m looking to collaborate on any open-source projects related to JavaScript, TypeScript, Golang, and C#.
 - 🤔 I’m looking for a code review partner related to my learning path.

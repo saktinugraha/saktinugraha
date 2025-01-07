@@ -6,10 +6,11 @@
 - 🧑‍💻 My Current stack:
   - Main Programming Language: [Golang](https://golang.org/): [Fiber](https://gofiber.io/), [Go-chi](https://go-chi.io/), [GORM](https://gorm.io/).
   - 2nd Programming Language: [Javascript/Typescript](https://www.typescriptlang.org): [Express.js](https://expressjs.com), [Sequelize](https://sequelize.org/), [NestJS](https://nestjs.com), [TypeORM](https://typeorm.io/), [Mongoose](https://mongoosejs.com/).
+  - 3rd Programming Language: [C#](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/): [.NET](https://learn.microsoft.com/en-us/dotnet/), [ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/), [Unity](https://unity.com/).
   - Databases: [MySQL](https://www.mysql.com/)/[MariaDB](https://mariadb.org/), [PostgreSQL](https://www.postgresql.org/), [MongoDB](https://www.mongodb.com/), [Redis](https://redis.io/).
-- 👯 I’m looking to collaborate on any open-source projects related to JavaScript, TypeScript, and Golang.
+- 👯 I’m looking to collaborate on any open-source projects related to JavaScript, TypeScript, Golang, and C#.
 - 🤔 I’m looking for a code review partner related to my learning path.
-- 💬 Ask me about anything related to JavaScript, TypeScript, and Golang.
+- 💬 Ask me about anything related to JavaScript, TypeScript, Golang, and C#.
 - 📫 Reach out to me directly through my [Email](mailto:saktinugraha24@gmail.com) or at [LinkedIn](https://www.linkedin.com/in/muhammad-wahyu-nugroho-sakti/).
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I did programming because it's fun!
@@ -217,17 +218,9 @@
     <a href="https://github.com/saktinugraha/github-readme-stats">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saktinugraha&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
-  </div>
-  <br>
-  <div align=center>
     <a href="https://github.com/saktinugraha/github-readme-stats" title="Go to Source">
       <img align="left" width=396 src="https://github-readme-stats.vercel.app/api?username=saktinugraha&show_icons=true&theme=dark&border_color=61dafb&hide_border=true" />
     </a>
-    <a href="https://github.com/saktinugraha/github-readme-streak-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=saktinugraha&theme=dark&border=61dafb&hide_border=true" alt="saktinugraha" />
-    </a>
   </div>
-  <br><br><br><br><br><br><br><br><br>
-  <br>
 </p>
 <hr>

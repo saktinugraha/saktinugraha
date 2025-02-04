@@ -219,7 +219,7 @@
       <img align="left" width=400 src="https://github-readme-stats-saktinugroho.vercel.app/api?username=saktinugraha&show_icons=true&theme=dark&border_color=61dafb&hide_border=true" />
     </a>
     <a href="#">
-      <img align="right" width=325 src="https://github-readme-stats-saktinugroho.vercel.app/api/top-langs/?username=saktinugraha&hide=PHP,Blade,HTML,CSS,SCSS,Powershell,Mathematica,CoffeeScript&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img align="right" width=325 src="https://github-readme-stats-saktinugroho.vercel.app/api/top-langs/?username=saktinugraha&hide=Python,PHP,Blade,HTML,CSS,SCSS,Powershell,Mathematica,CoffeeScript&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
 </p>
